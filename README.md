@@ -77,8 +77,8 @@ I specialize in *rapid problem-solving* — building practical systems that solv
 ---
 
 # 📫 Contact / 連絡先
-- 🌐 Portfolio: **[YOUR_PORTFOLIO_URL](https://digital-yamato-dx.jp/)**
-- 🐦 X (Twitter): [YOUR_TWITTER_URL](https://x.com/yamato_DX_01C)
+- 🌐 Portfolio: **[PORTFOLIO](https://digital-yamato-dx.jp/)**
+- 🐦 X (Twitter): [Yamato Takeuchi](https://x.com/yamato_DX_01C)
 - 📮 Email: **yamato1106take@gmail.com**
 
 ---
