@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="YOUR_PROFILE_IMAGE_URL" width="120" style="border-radius: 50%; margin-bottom: 10px;" />
+
 
 # 👋 Takeuchi Yamato / 竹内 大和  
 ### Full-stack Engineer / AI × DX × Automation / 21 years old
