@@ -9,12 +9,12 @@
 
 # 🌏 About Me / 自己紹介
 **EN:**  
-I’m a 21-year-old full-stack engineer focusing on **AI, automation (GAS × Python), data analytics, and store DX solutions**.  
+I’m a 21-year-old datascientist focusing on **AI, automation, data analytics, and DX solutions**.  
 I specialize in *rapid problem-solving* — building practical systems that solve real business issues with speed and execution.
 
 **JP:**  
-21歳のフルスタックエンジニアです。  
-**AI・自動化（GAS × Python）・データ分析・店舗DX** を中心に、  
+21歳のデータサイエンティストです。  
+**AI・自動化・データ分析・DX** を中心に、  
 現場の課題を“すぐに形にする”スピード開発を得意としています。
 
 ---
@@ -34,9 +34,8 @@ I specialize in *rapid problem-solving* — building practical systems that solv
 - Excel/Google Sheets 自動レポート化
 
 ## **Web / DX**
-- Django / FastAPI  
-- Static website / portfolio development  
-- 店舗DX：QRメニュー、OHP、OQR  
+- Django / React / FastAPI  
+- Static website / portfolio development   
 - JavaScript / HTML / CSS
 
 ---
