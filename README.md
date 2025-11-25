@@ -23,15 +23,15 @@ I specialize in *rapid problem-solving* — building practical systems that solv
 
 ## **AI / Data Science**
 - Time-series forecasting / 需要予測  
-- NLP (summarization, classification, QA)  
+- NLP
 - Customer analytics / データ分析  
 - Python, PyTorch, Transformers
 
 ## **Automation（業務自動化）**
 - Google Apps Script（GAS）  
-- Python automation (scraping / API連携)  
+- Python automation
 - Slack / LINE / Notion integration  
-- Excel/Google Sheets 自動レポート化
+- Excel/Google Sheets
 
 ## **Web / DX**
 - Django / React / FastAPI  
@@ -57,7 +57,7 @@ I specialize in *rapid problem-solving* — building practical systems that solv
 ---
 
 # 📌 Featured Projects / 注目プロジェクト
-（※今後追加予定。最初はPlaceholderでOK）
+（※今後追加予定。）
 
 - **AI Forecast Demo** – 時系列予測のデモ  
 - **GAS Automation Kit** – 業務自動化テンプレート集  
